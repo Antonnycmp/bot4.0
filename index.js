@@ -330,8 +330,8 @@ async function starts() {
 			const mod = [ownerNumber,"5522996215481@s.whatsapp.net"]//ubah nomor lo
 			const adminbotnumber = ["5522996215481@s.whatsapp.net"]//ubah nomor lo
 			const frendsowner = ["5522996215481@s.whatsapp.net"]//ubah nomor lo
-			const premium = ["5522996215481@s.whatsapp.net","559784130980@s.whatsapp.net","557599941062@s.whatsapp.net","558598669655@s.whatsapp.net","5511949051934@s.whatsapp.net","554792091566@s.whatsapp.net","558699541889@s.whatsapp.net","559294313229@s.whatsapp.net","554298653614@s.whatsapp.net","12267740582@s.whatsapp.net"]
-			const sGroup = from.endsWith('@g.us')
+			const premium = ["5522996215481@s.whatsapp.net","559784130980@s.whatsapp.net","557599941062@s.whatsapp.net","558598669655@s.whatsapp.net","5511949051934@s.whatsapp.net","554792091566@s.whatsapp.net","558699541889@s.whatsapp.net","559294313229@s.whatsapp.net","554298653614@s.whatsapp.net","12267740582@s.whatsapp.net","1","14502355564@s.whatsapp.net"]
+			const sGroup = from.endsWith ('@ g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? awat dark.groupMetadata(from) : ''
 			const groupName = isGroup ? groupMetadata.subject : ''
@@ -649,7 +649,7 @@ const get = require('got')
 	
 		if (messC.includes("bot")){
 			dark.updatePresence(from, Presence.composing)
-			reply("oi")
+			reply("oi bb")
 	}
 	
 			if (messC.includes("bah")){
@@ -2256,7 +2256,8 @@ break
 					anu = awat fetchJson(`https://arugaz.herokuapp.com/api/howgay`, {method: 'get'})
 					reply('De acordo com o percentual gay:\n\n'+anu.desc+anu.persen)
 					break
-			  case 'next':               
+			  case 'next':
+               
                 if (isGroup) return  reply( 'NÃO PODE ESTAR EM GRUPO KAK')
                 awat reply('Ache um companheiro >_<')
                 awat reply(`wa.me/${anug}`)
