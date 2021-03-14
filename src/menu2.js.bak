@@ -7,7 +7,7 @@ const listmenu = (prefix) => {
 ╠➥ *${prefix}toimg*
 ╠➥ *${prefix}meme*
 ╠➥ *${prefix}memeindo*
-╠➥ *${prefix}tts*
+╠➥ *${prefix}tts pt*
 ╠➥ *${prefix}loli [off]*
 ╠➥ *${prefix}nsfwloli [off]*
 ╠➥ *${prefix}url2img*
@@ -46,6 +46,6 @@ const listmenu = (prefix) => {
 ╠➸ *${prefix}simih 0 (para desativar)*
 ╠➥ *${prefix}simi (sua mensagem)*
 ║
-╠══✪〘 *DARKBOT* 〙✪══`
+╠══✪〘 *ATNNBOT* 〙✪══`
 }
 exports.listmenu = listmenu
