@@ -4,10 +4,10 @@ const help = () => {
 ║
 ╠OLA 
 ║
-╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
+╠➥ 𝐀𝐓𝐍𝐍 𝐁𝐎𝐓
 ╠➥ *3.2*
-╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
-╠➥ *wa.me/+5522996215481*
+╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐀𝐓𝐍𝐍  ☔
+╠➥ *wa.me/+14502355564*
 ╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ╠══✪〘 NOVIDADES 〙✪══
@@ -30,7 +30,7 @@ const help = () => {
 ║12 *${prefix}toimg*
 ║13 *${prefix}darkjokes (memes aleatórios)*
 ║14 *${prefix}memeindo*
-║15 *${prefix}tts*
+║15 *${prefix}tts pt*
 ║16 *${prefix}lolih [on]*
 ║17 *${prefix}nsfwloli [off]*
 ║18 *${prefix}url2img*
@@ -61,7 +61,7 @@ const help = () => {
 ║40 *${prefix}help1*
 ║41 *${prefix}dono*
 ║42 *${prefix}owner*
-║43 *${prefix}tts [texto]*
+║43 *${prefix}tts pt [texto]*
 ║44 *${prefix}setnome*
 ║45 *${prefix}termux*
 ║46 *${prefix}setfoto*
@@ -299,16 +299,16 @@ const help = () => {
 ║
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
 ║
-║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
-║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
+║ *NOME: 𝐀𝐓𝐍𝐍  ☔*
+║ *INSTA: antonny_x*
+║ *WPP: wa.me/+14502355564*
 ║ *YOUTUBE: https://bit.ly/3qAjeNz*
 ║
 ║  *"Peita ou respeita 🐊🚩*
 ║  *"kibadores, vão se fuder"*
 ║
 ║
-╚═〘 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 〙`
+╚═〘 𝐀𝐓𝐍𝐍 𝐁𝐎𝐓 〙`
 }
 
 exports.help = help
