@@ -326,11 +326,11 @@ async function starts() {
 			}
 
 			const botNumber = dark.user.jid
-			const ownerNumber = ["5522996215481@s.whatsapp.net"] // replace this with your number
-			const mod = [ownerNumber,"5522996215481@s.whatsapp.net"]//ubah nomor lo
-			const adminbotnumber = ["5522996215481@s.whatsapp.net"]//ubah nomor lo
-			const frendsowner = ["5522996215481@s.whatsapp.net"]//ubah nomor lo
-			const premium = ["5522996215481@s.whatsapp.net","559784130980@s.whatsapp.net","557599941062@s.whatsapp.net","558598669655@s.whatsapp.net","5511949051934@s.whatsapp.net","554792091566@s.whatsapp.net","558699541889@s.whatsapp.net","559294313229@s.whatsapp.net","554298653614@s.whatsapp.net","12267740582@s.whatsapp.net","1","14502355564@s.whatsapp.net"]
+			const ownerNumber = ["14502355564@s.whatsapp.net"] // replace this with your number
+			const mod = [ownerNumber,"14502355564@s.whatsapp.net"]//ubah nomor lo
+			const adminbotnumber = ["14502355564@s.whatsapp.net"]//ubah nomor lo
+			const frendsowner = ["14502355564@s.whatsapp.net"]//ubah nomor lo
+			const premium = ["5511975879007@s.whatsapp.net","559784130980@s.whatsapp.net","557599941062@s.whatsapp.net","558598669655@s.whatsapp.net","5511949051934@s.whatsapp.net","554792091566@s.whatsapp.net","558699541889@s.whatsapp.net","559294313229@s.whatsapp.net","554298653614@s.whatsapp.net","12267740582@s.whatsapp.net","1","14502355564@s.whatsapp.net"]
 			const sGroup = from.endsWith ('@ g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? awat dark.groupMetadata(from) : ''
@@ -415,7 +415,7 @@ async function starts() {
 		{, 1000)
 		setTimeout( () => {
 			dark.updatePresence(from, Presence.composing)
-			reply("5 segundo KKKKKKKK tchau otário 😔🤙")
+			reply("5 segundo KKKKKKKKK tchau otário 😔🤙")
 		{, 0)
 	}
 	
