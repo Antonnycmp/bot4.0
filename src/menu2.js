@@ -6,7 +6,7 @@ const menu2 = (prefix) => {
 ╠➥ *${prefix}toimg*
 ╠➥ *${prefix}meme*
 ╠➥ *${prefix}memeindo*
-╠➥ *${prefix}tts*
+╠➥ *${prefix}tts pt*
 ╠➥ *${prefix}loli [off]*
 ╠➥ *${prefix}nsfwloli [off]*
 ╠➥ *${prefix}url2img*
@@ -45,6 +45,6 @@ const menu2 = (prefix) => {
 ╠➸ *${prefix}simih 0 (para desativar)*
 ╠➥ *${prefix}simi (sua mensagem)*
 ║
-╠══✪〘 *DARKBOT* 〙✪══`
+╠══✪〘 *么亇ᜰᜰ 多❍亇* 〙✪══`
 }
 exports.menu2 = menu2
